@@ -17,11 +17,8 @@ Como iniciante em JavaScript, escolhi desenvolver uma aplicação de Todo List p
 ## 💻 Funcionalidades
 
 - ✅ Adicionar novas tarefas
-- ✏️ Editar tarefas existentes
 - ❌ Remover tarefas
-- ✔️ Marcar tarefas como concluídas
 - 💾 Persistência de dados (localStorage)
-- 📱 Interface responsiva
 
 ## 🛠️ Tecnologias Utilizadas
 
